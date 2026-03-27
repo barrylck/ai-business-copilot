@@ -1,0 +1,10 @@
+anthropic
+langgraph
+langchain
+langchain-anthropic
+streamlit
+plotly
+pypdf
+sentence-transformers
+chromadb
+python-dotenv
