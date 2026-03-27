@@ -19,10 +19,10 @@ A structured AI workflow that ingests earnings report PDFs and produces a comple
 > Upload one or more earnings report PDFs → click Run Analysis → results populate across three tabs.
 
 | Tab | What it shows |
-|---|---|
 | 📈 Extraction | Revenue, growth, net income, EPS, key risks, management sentiment scores |
 | ⚖️ Comparison | Side-by-side Plotly chart + DuPont-style ratio analysis across companies |
 | 📄 Executive Summary | One-page markdown brief formatted for a Bain or PE client meeting |
+
 ![alt text](image/image.png) ![alt text](image/image2.png) ![alt text](image/image3.png)
 
 
